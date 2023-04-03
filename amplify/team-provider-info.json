@@ -14,6 +14,12 @@
     "categories": {
       "api": {
         "reactamplified": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d3vz0q617zpfju",
+          "type": "manual"
+        }
       }
     }
   }

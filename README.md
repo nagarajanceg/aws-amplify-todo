@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Deployed Ampliy app available here: https://dev.d3vz0q617zpfju.amplifyapp.com
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
